@@ -16,7 +16,7 @@ and a pc(daaaaaaaaa)
 
 Usage:
 ```sh
-python3  <url>
+python3 app.py  <url>
 ```
 try this for example
 
