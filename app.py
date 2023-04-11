@@ -61,6 +61,10 @@ def download_static_files(url):
             except Exception as e:
                 print(f'Error downloading {file_url}: {e}')
 
+if len(sys.argv) != 2:
+    print("Error!! Usage: python3 app.py <url>")
+    sys.exit()
+
 url=sys.argv[1]
 
 # Example usage:
