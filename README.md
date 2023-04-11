@@ -9,7 +9,7 @@ will not work wierd on big pages (like tesla.... baaaa).
 
 ## Requirements
 
-python3.10
+python3.10 <br>
 and a pc(daaaaaaaaa)
 
 ## Usage
