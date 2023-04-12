@@ -14,6 +14,13 @@ and a pc(daaaaaaaaa)
 
 ## Usage
 
+first install the requirements
+
+```sh
+pip install -r requirements.txt
+
+```
+
 Usage:
 ```sh
 python3 app.py  <url>

@@ -72,4 +72,4 @@ download_static_files(url)
 
 domain = get_domain(url)
 
-os.system("cd " + domain +  " &&  python3 -m http.server" )
+os.system(f"cd {domain} &&  python3 -m http.server" )
